@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/minus.svg</file>
+        <file>icon/plus.svg</file>
+        <file>icon/power.svg</file>
+        <file>icon/chevron-down.svg</file>
+        <file>icon/chevron-up.svg</file>
+        <file>icon/chevrons-left.svg</file>
+        <file>icon/chevrons-right.svg</file>
+        <file>icon/search.svg</file>
+        <file>icon/battery-charging.svg</file>
+        <file>icon/bluetooth.svg</file>
+        <file>icon/wifi.svg</file>
+        <file>icon/play.svg</file>
+        <file>icon/skip-back.svg</file>
+        <file>icon/skip-forward.svg</file>
+        <file>icon/pause.svg</file>
+        <file>icon/volume.svg</file>
+        <file>icon/volume-1.svg</file>
+        <file>icon/volume-2.svg</file>
+        <file>icon/volume-x.svg</file>
+    </qresource>
+    <qresource prefix="/img">
+        <file>img/fan_off.png</file>
+        <file>img/lamp_off.png</file>
+        <file>img/lamp_on.png</file>
+        <file>img/clock.png</file>
+        <file>img/oven_off.png</file>
+        <file>img/oven_on.png</file>
+        <file>img/refrigerator.png</file>
+        <file>img/air-conditioner.png</file>
+        <file>img/fan.png</file>
+        <file>img/clock_icon.png</file>
+        <file>img/light-bulb.png</file>
+        <file>img/bedroom.png</file>
+        <file>img/kitchen.png</file>
+        <file>img/living-room.png</file>
+        <file>img/morning.png</file>
+        <file>img/noon.png</file>
+        <file>img/lamp_on_blue.png</file>
+        <file>img/lamp_on_orange.png</file>
+        <file>img/lamp_on_pink.png</file>
+        <file>img/fan_on1.png</file>
+        <file>img/fan_on2.png</file>
+        <file>img/fan_on3.png</file>
+        <file>img/night.png</file>
+    </qresource>
+</RCC>
